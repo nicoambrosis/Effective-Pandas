@@ -6,7 +6,7 @@
 
 Este repositorio contiene material de estudio relacionado a la librería PANDAS de Python realizado a partir de tutoriales, clases y libros de [Mat Harrison](https://twitter.com/__mharrison__).
 
-the `glorious_function`:
+the [`glorious_function`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/tweak_autos.ipynb)
 ```python
 def tweak_autos(autos):
     
@@ -28,4 +28,14 @@ def tweak_autos(autos):
      .drop(columns = ['trany', 'eng_dscr'])                                # Eliminamos esta columna 
     )
 
+```
+---
+[`background_gradient()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/background_gradient.ipynb)
+```python
+(autos2
+ .corr()
+ .style
+ .background_gradient(cmap = 'RdBu', vmin = -1, vmax = 1)
+ .set_sticky(axis = 'index')
+)
 ```
