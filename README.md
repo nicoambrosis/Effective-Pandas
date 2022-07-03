@@ -39,3 +39,9 @@ def tweak_autos(autos):
  .set_sticky(axis = 'index')
 )
 ```
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57463307/177058847-8dad74a4-7ba4-46a9-b621-147cb4c454c3.jpg"
+       width="50%"/>
+</p>
+
+---
