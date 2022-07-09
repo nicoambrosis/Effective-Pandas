@@ -23,7 +23,8 @@ Este repositorio contiene material de estudio relacionado a la librería PANDAS 
 [`plot()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`quantile()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`apply()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
-[`agg()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
+[`agg() 1`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
+[`agg() 2`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/07%20Aggregate%20methods.ipynb)
 [`unstack()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`rolling()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`gt()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
@@ -35,6 +36,12 @@ Este repositorio contiene material de estudio relacionado a la librería PANDAS 
 [`add_suffix()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
 [`copy()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
 [`add()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/06%20Operation%20with%20SERIES.ipynb)
+[`count()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/07%20Aggregate%20methods.ipynb)
+[`shape`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/07%20Aggregate%20methods.ipynb)
+[`nunique()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/07%20Aggregate%20methods.ipynb)
+[`mean()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/07%20Aggregate%20methods.ipynb)
+[`max()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/07%20Aggregate%20methods.ipynb)
+
 
 ---
 the [`glorious_function`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/tweak_autos.ipynb)
