@@ -34,7 +34,7 @@ Este repositorio contiene material de estudio relacionado a la librería PANDAS 
 [`add_prefix()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
 [`add_suffix()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
 [`copy()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
-
+[`add()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/06%20Operation%20with%20SERIES.ipynb)
 
 ---
 the [`glorious_function`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/tweak_autos.ipynb)
