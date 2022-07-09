@@ -13,7 +13,10 @@ Este repositorio contiene material de estudio relacionado a la librería PANDAS 
 [`.query()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
 [`.assign() 1`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
 [`.assign() 2`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
-[`.str.contains()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`.str.contains() 1`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`.str.contains() 2`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
+[`endswith()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
+[`.str.find()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
 [`.str.extract()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
 [`fillna()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
 [`.groupby()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
@@ -25,6 +28,12 @@ Este repositorio contiene material de estudio relacionado a la librería PANDAS 
 [`rolling()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`gt()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`.pipe()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
+[`is_monotonic()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
+[`sort_values()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
+[`reset_index()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
+[`add_prefix()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
+[`add_suffix()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
+[`copy()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
 
 
 ---
