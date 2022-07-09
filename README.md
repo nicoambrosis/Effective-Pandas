@@ -9,6 +9,7 @@ Este repositorio contiene material de estudio relacionado a la librería PANDAS 
 ### Indice
 [`memory_usage()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
 [`select_dtypes()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`select_dtypes()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/09%20Manipulation%20Mehods%20SERIES.ipynb)
 [`value_counts()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
 [`query()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
 [`assign() 1`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
@@ -19,17 +20,18 @@ Este repositorio contiene material de estudio relacionado a la librería PANDAS 
 [`str.find()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
 [`str.extract()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
 [`fillna()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`fillna()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/09%20Manipulation%20Mehods%20SERIES.ipynb)
 [`groupby()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`plot()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`quantile()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`apply() 1`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
-[`apply() 2`]
+[`apply() 2`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/09%20Manipulation%20Mehods%20SERIES.ipynb)
 [`agg() 1`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`agg() 2`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/07%20Aggregate%20methods.ipynb)
 [`unstack()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`rolling()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`gt() 1`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
-[`gt() 2`]
+[`gt() 2`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/09%20Manipulation%20Mehods%20SERIES.ipynb)
 [`pipe()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`is_monotonic()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
 [`sort_values()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
@@ -43,11 +45,16 @@ Este repositorio contiene material de estudio relacionado a la librería PANDAS 
 [`nunique()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/07%20Aggregate%20methods.ipynb)
 [`mean()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/07%20Aggregate%20methods.ipynb)
 [`max()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/07%20Aggregate%20methods.ipynb)
-[`%%timeit`]
-[`where()`]
-[`np.select()`]
-[`isin()`]
-[`isna()`]
+[`%%timeit`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/09%20Manipulation%20Mehods%20SERIES.ipynb)
+[`where()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/09%20Manipulation%20Mehods%20SERIES.ipynb)
+[`np.select()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/09%20Manipulation%20Mehods%20SERIES.ipynb)
+[`isin()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/09%20Manipulation%20Mehods%20SERIES.ipynb)
+[`isna()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/09%20Manipulation%20Mehods%20SERIES.ipynb)
+[`interpolate()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/09%20Manipulation%20Mehods%20SERIES.ipynb)
+[`clip()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/09%20Manipulation%20Mehods%20SERIES.ipynb)
+[`quantile()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/09%20Manipulation%20Mehods%20SERIES.ipynb)
+[`plot.kde()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/09%20Manipulation%20Mehods%20SERIES.ipynb)
+[`plot.box()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/09%20Manipulation%20Mehods%20SERIES.ipynb)
 
 
 
