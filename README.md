@@ -6,6 +6,17 @@
 
 Este repositorio contiene material de estudio relacionado a la librería PANDAS de Python realizado a partir de tutoriales, clases y libros de [Mat Harrison](https://twitter.com/__mharrison__).
 
+### Indice
+[`.memory_usage()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`.select_dtypes()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`.value_counts()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`.query()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`.assign()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`.str.contains()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`.str.extract()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`fillna()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+
+
 the [`glorious_function`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/tweak_autos.ipynb)
 ```python
 def tweak_autos(autos):
