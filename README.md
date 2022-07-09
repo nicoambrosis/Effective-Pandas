@@ -7,28 +7,30 @@
 Este repositorio contiene material de estudio relacionado a la librería PANDAS de Python realizado a partir de tutoriales, clases y libros de [Mat Harrison](https://twitter.com/__mharrison__).
 
 ### Indice
-[`.memory_usage()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
-[`.select_dtypes()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
-[`.value_counts()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
-[`.query()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
-[`.assign() 1`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
-[`.assign() 2`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
-[`.str.contains() 1`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
-[`.str.contains() 2`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
+[`memory_usage()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`select_dtypes()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`value_counts()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`query()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`assign() 1`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`assign() 2`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
+[`str.contains() 1`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`str.contains() 2`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
 [`endswith()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
-[`.str.find()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
-[`.str.extract()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
+[`str.find()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
+[`str.extract()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
 [`fillna()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/01%20Effective%20Pandas.ipynb)
-[`.groupby()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
+[`groupby()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`plot()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`quantile()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
-[`apply()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
+[`apply() 1`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
+[`apply() 2`]
 [`agg() 1`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`agg() 2`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/07%20Aggregate%20methods.ipynb)
 [`unstack()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`rolling()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
-[`gt()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
-[`.pipe()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
+[`gt() 1`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
+[`gt() 2`]
+[`pipe()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/02%20Effective%20Pandas.ipynb)
 [`is_monotonic()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
 [`sort_values()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
 [`reset_index()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/03%20Working%20with%20SERIES.ipynb)
@@ -41,6 +43,14 @@ Este repositorio contiene material de estudio relacionado a la librería PANDAS 
 [`nunique()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/07%20Aggregate%20methods.ipynb)
 [`mean()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/07%20Aggregate%20methods.ipynb)
 [`max()`](https://github.com/nicoambrosis/Effective-Pandas/blob/main/07%20Aggregate%20methods.ipynb)
+[`%%timeit`]
+[`where()`]
+[`np.select()`]
+[`isin()`]
+[`isna()`]
+
+
+
 
 
 ---
